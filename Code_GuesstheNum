@@ -14,7 +14,6 @@ else:
     lives = 6
 
 
-# decreasing lives
 def decrease_lives():
     global lives
     lives -= 1
